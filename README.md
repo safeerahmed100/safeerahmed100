@@ -1,5 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning React, Laravel
@@ -8,13 +8,13 @@ This is the place where I opensource stuff and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/safeerahmed100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safeerahmed100" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
+ -->
 ### ✨&nbsp; About Me
 
-I am a Front-end | Shopify Developer with 2+ years of experience in developing Ecommerce Store.
+I am a Front-end | Shopify Theme Developer with 2+ years of experience in developing Ecommerce Store.
 
 
 
@@ -22,7 +22,7 @@ I am a Front-end | Shopify Developer with 2+ years of experience in developing E
 
 
 
-During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
+In my free time, I actively explore and learn new technologies to broaden my skill set and enhance my contributions to open-source projects. I enjoy diving into various frameworks and languages, keeping up with industry trends, and applying my knowledge to real-world challenges. This continuous learning fuels my passion for development.
   
 
 
@@ -58,11 +58,6 @@ During my free time, I actively contribute to open-source projects on GitHub. Du
 
 </details> -->
 
-<details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
-  <br/>
 
-
-</details>
 
 <!-- <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'> -->
